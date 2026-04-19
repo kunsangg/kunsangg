@@ -1,67 +1,66 @@
 # Hi, I'm Kunsang 👋
 
 🚀 Founder | Builder | Computer Science Engineer  
-I focus on building impactful tech products, AI-driven tools, and modern user-centric platforms.
 
 ---
 
 ## 🧠 About Me
 
-- 🏗 Founder of **Deexen AI** — an AI-powered development platform  
-- 📄 Founder of **Resolio** — portfolio & resume builder platform  
-- 🤝 Co-Founder & COO at **Nesions**  
-- 💡 Built multiple real-world projects including AI tools, web apps, and mobile applications  
-- 🏆 2nd Place Winner — UI/UX Hackathon  
+- 🏗 Founder of **Deexen AI**
+- 📄 Founder of **Resolio**
+- 🤝 Co-Founder & COO at **Nesions**
+- 🏆 2nd Place — UI/UX Hackathon  
 
-I enjoy turning ideas into scalable products and experimenting with new technologies.
+---
+
+## 🏅 Highlights
+
+![Founder](https://img.shields.io/badge/Role-Founder-black?style=for-the-badge&logo=fire)
+![Builder](https://img.shields.io/badge/Mindset-Builder-blue?style=for-the-badge&logo=code)
+![AI](https://img.shields.io/badge/Focus-AI%20Development-purple?style=for-the-badge&logo=openai)
+![Open Source](https://img.shields.io/badge/Open%20Source-Active-green?style=for-the-badge&logo=github)
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Deexen AI
-AI-powered IDE with intelligent debugging, GitHub integration, and upcoming deployment system.
-
-### 🔹 Resolio
-Modern platform to build professional portfolios and resumes with ease.
-
-### 🔹 Dev Bounty
-A platform focused on developer opportunities and collaboration.
-
-### 🔹 AI Chatbot (Local LLM)
-Built using Ollama + Mistral for local AI inference and privacy-focused interaction.
-
-### 🔹 Sikkim Tourism App
-Flutter-based frontend application focused on clean UI and user experience.
-
-### 🔹 Personal Portfolio Website
-A modern, responsive portfolio showcasing my work and journey.
+![Deexen AI](https://img.shields.io/badge/Deexen%20AI-AI%20Dev%20Platform-black?style=for-the-badge)
+![Resolio](https://img.shields.io/badge/Resolio-Portfolio%20Builder-blue?style=for-the-badge)
+![Dev Bounty](https://img.shields.io/badge/Dev%20Bounty-Developer%20Platform-orange?style=for-the-badge)
+![Local LLM](https://img.shields.io/badge/Local%20LLM-Mistral%20%2B%20Ollama-purple?style=for-the-badge)
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** C++, Python, JavaScript  
-- **Frontend:** Flutter, React, HTML, CSS  
-- **Backend:** Node.js, APIs  
-- **AI/ML:** Local LLMs (Mistral, Ollama)  
-- **Tools:** Git, GitHub, VS Code  
+![C++](https://img.shields.io/badge/C++-Programming-blue?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-Development-yellow?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Web-black?style=for-the-badge&logo=javascript)
+![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react)
 
 ---
 
-## 📈 What I’m Working On
+## 📊 GitHub Stats
 
-- Scaling **Deexen AI** into a full development ecosystem  
-- Building and launching **Resolio**  
-- Exploring AI + developer productivity tools  
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🤝 Let's Connect
+## 📈 Current Focus
 
-- 💼 LinkedIn: (add your link)
-- 🌐 Portfolio: (add your website)
-- 🐙 GitHub: You're already here 😄
+![Deexen](https://img.shields.io/badge/Building-Deexen%20AI-black?style=for-the-badge)
+![Resolio](https://img.shields.io/badge/Launching-Resolio-blue?style=for-the-badge)
+![AI](https://img.shields.io/badge/Exploring-AI%20Tools-purple?style=for-the-badge)
+
+---
+
+## 🤝 Connect
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)
 
 ---
 
@@ -69,23 +68,6 @@ A modern, responsive portfolio showcasing my work and journey.
 
 > Build. Break. Learn. Repeat.
 
-I believe consistency beats perfection. Every project is a step forward.
-
 ---
 
-⭐ If you like my work, consider following me — more exciting projects coming soon.
-
-<!--
-**kunsangg/kunsangg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Follow me — building in public.
