@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About
+## About
 
 I build products that solve real problems and focus on execution over noise.
 
@@ -21,7 +21,7 @@ I build products that solve real problems and focus on execution over noise.
 
 ---
 
-## 🧠 What I'm Building
+## What I'm Building
 
 - **Deexen AI** → AI IDE with debugging, GitHub integration, deployment  
 - **Resolio** → Modern portfolio ecosystem  
@@ -38,16 +38,8 @@ I build products that solve real problems and focus on execution over noise.
 
 ---
 
-## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## ⚡ Current Focus
+##  Current Focus
 
 - Scaling **Deexen AI**
 - Launching **Resolio**
@@ -55,7 +47,7 @@ I build products that solve real problems and focus on execution over noise.
 
 ---
 
-## 🤝 Connect
+## Connect
 
 <p>
   <a href="YOUR_LINKEDIN">
