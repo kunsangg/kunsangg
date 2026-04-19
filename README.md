@@ -15,9 +15,8 @@ I build products that solve real problems and focus on execution over noise.
 
 - Founder of **Deexen AI** — AI-powered development platform  
 - Founder of **Resolio** — portfolio & resume builder  
-- Co-Founder & COO at **Nesions**  
+- Co-Founder & COO at **Nesion**  
 - Built AI tools, web apps, and mobile applications  
-- 2nd Place — UI/UX Hackathon  
 
 ---
 
