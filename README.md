@@ -23,14 +23,14 @@ I don't wait until things are perfect. I ship, learn, iterate.
 
 ---
 
-### 🚀 What I'm building
+### What I'm building
 
 **[Nagi.ai](https://github.com/kunsangg/Nagi.ai)** — AI-native research tool for students.
 > Search returns 500 papers. Nobody reads them. Nagi surfaces what's actually relevant, explains it in plain language, detects research gaps, and drafts your literature review. Launching at SMIT first. Then every engineering college in India.
 
 ---
 
-### 📦 Projects
+### Projects
 
 | Project | Stack | Description |
 |---|---|---|
@@ -42,7 +42,7 @@ I don't wait until things are perfect. I ship, learn, iterate.
 
 ---
 
-### 🛠 Stack
+### Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -57,7 +57,7 @@ I don't wait until things are perfect. I ship, learn, iterate.
 
 ---
 
-### 📊 Stats
+### Stats
 
 <div align="center">
 
