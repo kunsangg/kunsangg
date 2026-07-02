@@ -36,7 +36,7 @@ I don't wait until things are perfect. I ship, learn, iterate.
 |---|---|---|
 | [Nagi.ai](https://github.com/kunsangg/Nagi.ai) | HTML · CSS · JS | AI research tool — discover, understand, synthesize papers |
 | [Deexen AI](https://github.com/kunsangg/mvp-for-deexen-functionalities) | TypeScript | AI-powered developer growth platform · AIC incubated |
-| [Sikkim Tourism App](https://github.com/kunsangg/Sikkim-tourism-app-) | Flutter · FastAPI | Full-stack mobile app with SMS OTP + admin dashboard |
+| [Sikkim Tourism App](https://github.com/kunsangg/Sikkim-tourism-app-) | Flutter · FastAPI | Full-stack mobile app + admin dashboard |
 | [Sign Language Translator](https://github.com/kunsangg/sign-language-translator) | Python · MediaPipe · TensorFlow | Real-time ML sign language translation |
 | [Nammora](https://github.com/kunsangg/Nammora) | HTML · CSS · JS | D2C storefront UI concept |
 
